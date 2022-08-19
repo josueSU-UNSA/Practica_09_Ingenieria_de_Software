@@ -1,5 +1,4 @@
 Estilo #10
-
 ==========
 
 Restricciones:
